@@ -302,13 +302,13 @@ class LoginStyles {
           borderSide: BorderSide(
             color: AppColors.borderColor,
           ),
-          borderRadius: BorderRadius.all(Radius.circular(10))),
+          borderRadius: BorderRadius.all(Radius.circular(5))),
       focusedBorder: const OutlineInputBorder(
           borderSide: BorderSide(color: AppColors.borderColor),
-          borderRadius: BorderRadius.all(Radius.circular(10))),
+          borderRadius: BorderRadius.all(Radius.circular(5))),
       enabledBorder: const OutlineInputBorder(
           borderSide: BorderSide(
             color: AppColors.borderColor,
           ),
-          borderRadius: BorderRadius.all(Radius.circular(10))));
+          borderRadius: BorderRadius.all(Radius.circular(5))));
 }
